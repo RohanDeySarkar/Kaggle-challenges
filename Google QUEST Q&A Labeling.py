@@ -1,5 +1,3 @@
-# https://www.kaggle.com/codename007/start-from-here-quest-complete-eda-fe
-
 import pandas as pd
 import numpy as np 
 import matplotlib
