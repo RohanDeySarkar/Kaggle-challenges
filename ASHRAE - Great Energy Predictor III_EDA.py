@@ -30,11 +30,6 @@ from sklearn.metrics import mean_squared_error
 import lightgbm as lgb
 from sklearn.model_selection import train_test_split
 
-# https://www.kaggle.com/caesarlupum/ashrae-start-here-a-gentle-introduction
-
-# Input data files are available in the "../input/" directory.
-# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
-
 import os, random, math, psutil, pickle
 # for dirname, _, filenames in os.walk('/kaggle/input'):
 #     for filename in filenames:
